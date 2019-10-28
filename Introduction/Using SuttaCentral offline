@@ -1,0 +1,40 @@
+# SuttaCentral offline verwenden
+
+Leider unterstützen wir *Progressive Web App* (PWA)-Funktionen nicht in Ihrem Browser. Zur vollen Offline-Nutzung benutzen Sie bitte eine aktuelle Version von Chrome. Wir planen, in Zukunft weitere PWA-Funktionen für andere Browser zu entwickeln.(!)
+
+Ihr Browser unterstützt *Progressive Web App*! :white_check_mark:
+
+SuttaCentral ist eine *Progressive Web App*. Auf unterstützten Geräten sind viele Funktionen einschließlich Navigation und kürzlich angesehenen Seiten noch verfügbar, selbst wenn keine Internetverbindung besteht.
+
+Zusätzlich können Sie Texte in Sprachen Ihrer Wahl herunterladen und offline lesen. Das ist vor allem nützlich für Mobilgerätenutzer mit begrenztem Datenvolumen oder in Gegenden mit schlechter Verbindung. Wenn Ihr Datenvolumen begrenzt ist, empfehlen wir, das Gerät vor dem Download mit einem WLan-Netz zu verbinden.
+
+PWAs sind eine neue Technologie. Zur Zeit hat die Offline-Nutzung einige Einschränkungen:
+
+* Nur Suttas, kein Vinaya oder Abhidhamma.
+* Nur in einer Sprache.
+* Bestimmte Funktionen wie die Suche erfordern eine Internetverbindung.
+
+Wenn Sie zusätzliche Funktionen möchten, lassen Sie es uns wissen.
+
+### Sprache
+Standardmäßig werden Ihre Suttas in der Sprache der Webseite heruntergeladen. Wenn Sie eine andere Sprache möchten, wählen Sie diese im Menü aus.
+
+Sprache
+...
+
+### Parallelen einschließen
+Auswählen, um auch Parallelentabellen herunterzuladen.
+
+### Quelltexte einschließen
+Auswählen, um auch Texte in Quellsprachen herunterzuladen. Das schließt ein Wörterbuch-Nachschlagewerkzeug Pali > Englisch ein. Wenn Sie ein anderes Nachschlagewerkzeug wünschen, klicken Sie [Hier]().
+
+Pali-Wörterbücher
+Auswählen, um Wörterbuch-Nachschlagewerkzeuge für Paliwörter in folgenden Sprachen herunterzuladen:
+
+Chinesische Wörterbücher
+Auswählen, um Wörterbuch-Nachschlagewerkzeuge für chinesische Wörter in folgenden Sprachen herunterzuladen:
+
+BEREITS HERUNTERGELADEN
+DOWNLOAD-CHRONIK LÖSCHEN
+TEXTE AUF ENGLISCH HERUNTERLADEN [...MB]
+ZU STARTBILDSCHIRM HINZUFÜGEN
