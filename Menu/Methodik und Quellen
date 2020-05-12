@@ -1,15 +1,16 @@
 # Methodik und Quellen
+<a href="https://suttacentral.net/methodology" target="_blank">Originaltext</a>
 
-1. [Hintergrund](https://github.com/sc-voice/sc-voice/wiki/Methodik-und-Quellen#Hintergrund)
-1. [Suttaparallelen](https://github.com/sc-voice/sc-voice/wiki/Methodik-und-Quellen#Suttaparallelen)
-1. [Vinayaparallelen](https://github.com/sc-voice/sc-voice/wiki/Methodik-und-Quellen#Vinayaparallelen)
-1. [Textquellen](https://github.com/sc-voice/sc-voice/wiki/Methodik-und-Quellen#Textquellen)
-1. [Markup](https://github.com/sc-voice/sc-voice/wiki/Methodik-und-Quellen#Markup)
-1. [Bibliografie](https://github.com/sc-voice/sc-voice/wiki/Methodik-und-Quellen#Bibliografie)
+1. [Hintergrund](https://sc-voice.github.io/dhammaregen/docs/uber-suttacentral/methodik-sc#Hintergrund)
+1. [Suttaparallelen](https://sc-voice.github.io/dhammaregen/docs/uber-suttacentral/methodik-sc#Suttaparallelen)
+1. [Vinayaparallelen](https://sc-voice.github.io/dhammaregen/docs/uber-suttacentral/methodik-sc#Vinayaparallelen)
+1. [Textquellen](https://sc-voice.github.io/dhammaregen/docs/uber-suttacentral/methodik-sc#Textquellen)
+1. [Markup](https://sc-voice.github.io/dhammaregen/docs/uber-suttacentral/methodik-sc#Markup)
+1. [Bibliografie](https://sc-voice.github.io/dhammaregen/docs/uber-suttacentral/methodik-sc#Bibliografie)
 
-## Hintergrund
+<h2 id="Hintergrund">Hintergrund</h2>
 
-Seit dem 19. Jahrhundert haben Wissenschaftler erkannt, dass viele buddhistische Texte, die man im Palikanon findet, Gegenstücke oder Parallelen in den chinesischen und anderen Sammlungen haben. Die erste Dokumentation dieser Parallelen wurde von Nanjio Bunyiu (Nanjō Bun’yū, 南條文雄) in seinem Werk *A Catalogue of the Chinese Translation of the Buddhist Tripiṭaka* von 1883 publiziert. Nanjio führte 24 Dīgha Nikāya-Lehrreden als Parallelen zum chinesischen Dīrghāgama auf. Diese keimhaften Tabellen stellen einen wichtigen ersten Schritt dar, zeigen sie doch, dass der Vergleich der chinesischen *Āgamas* mit den Pali-*Nikāyas* ein fruchtbares Unterfangen sein kann. Ein Jahr später beschrieb Samuel Beal Ähnlichkeiten zwischen verschiedenen buddhistischen Texten auf Pali und Chinesisch und bemerkte:
+Seit dem 19. Jahrhundert haben Wissenschaftler erkannt, dass viele buddhistische Texte, die man im Palikanon findet, Gegenstücke oder Parallelen in den chinesischen und anderen Sammlungen haben. Die erste Dokumentation dieser Parallelen wurde von Nanjio Bunyiu (Nanjō Bun’yū, 南條文雄) in seinem Werk *A Catalogue of the Chinese Translation of the Buddhist Tripiṭaka* von 1883 publiziert. Nanjio führte 24 Dīghanikāya-Lehrreden als Parallelen zum chinesischen Dīrghāgama auf. Diese keimhaften Tabellen stellen einen wichtigen ersten Schritt dar, zeigen sie doch, dass der Vergleich der chinesischen *Āgamas* mit den Pali-*Nikāyas* ein fruchtbares Unterfangen sein kann. Ein Jahr später beschrieb Samuel Beal Ähnlichkeiten zwischen verschiedenen buddhistischen Texten auf Pali und Chinesisch und bemerkte:
 
 >„Es ist offensichtlich, sowohl von ihren Übereinstimmungen als auch von den feinen Unterschieden her, die durchgängig vorkommen, dass diese Lehrreden von einer gemeinsamen Quelle herstammen; nicht dem Original, aber von Versionen, die vom Original stammen. Von einer dieser Versionen wurde die chinesische Übersetzung gemacht.“ (*„Buddhism in China“*, S. 25.)
 
@@ -17,11 +18,11 @@ Seit dem 19. Jahrhundert haben Wissenschaftler erkannt, dass viele buddhistische
 
 2014 erstellte Bhikkhu Sujato einen Parallelensatz für den Vinaya, der zu SuttaCentral hinzugefügt wurde, und 2016 fügte Ayya Vimala Versparallelen zu den Dhammapadas hinzu.
 
-Die Daten zu den Parallelen werden in einer einzigen Datei verwaltet, [parallels.json](https://github.com/suttacentral/sc-data/blob/master/relationship/parallels.json), die sich im [GitHub-Depot von SuttaCentral](https://github.com/suttacentral) befindet.
+Die Daten zu den Parallelen werden in einer einzigen Datei verwaltet, [parallels.json](https://github.com/suttacentral/sc-data/blob/master/relationship/parallels.json), die sich im [GitHub-Repo von SuttaCentral](https://github.com/suttacentral) befindet.
 
 Neben den Parallelen beherbergt SuttaCentral Originaltexte und Übersetzungen, sofern verfügbar. Eine kurze Notiz zu den Quellen dieser Texte findet sich weiter unten.
 
-## Suttaparallelen
+<h2 id="Suttaparallelen">Suttaparallelen</h2>
 
 *Rod Bucknell, aktualisiert von Sujato*
 
@@ -51,7 +52,7 @@ Von Lehrreden, die vollständige Parallelen zu einer bestimmten Pali-Lehrrede si
 
 Hingegen kann man solche Schlussfolgerungen nicht für Lehrreden ziehen, die als Teilparallelen zu einer bestimmten Pali-Lehrrede aufgeführt sind. Zum Beispiel wurde für DN 22 gezeigt, dass es Teilparallelen in MN 141, MA 31 und T 32 hat. Daraus kann man nicht auf irgendeine Entsprechung zwischen MA 31 und T 32 schließen (tatsächlich sind die beiden vollständige Parallelen), oder zwischen MA 31 und EA 12.1 (die tatsächlich keine Verwandtschaft aufweisen).
 
-## Vinayaparallelen
+<h2 id="Vinayaparallelen">Vinayaparallelen</h2>
 
 *Bhikkhu Sujato*
 
@@ -75,7 +76,7 @@ In diesem Fall ist die wichtigste Ausnahme der Mahāsaṅghika-Vinaya, der über
 
 Man beachte, dass es aufgrund der Natur der Vinayatexte keine Notwendigkeit für die verschiedenen Arten von Beziehungen gibt, wie sie für die Suttas definiert wurden. In fast allen Fällen ist es klar, dass eine bestimmte Regel eine vollständige Parallele zu anderen Regeln ist, in dem Sinn, dass sie verschiedene Versionen derselben „Sache“ sind. Es gibt dazu natürlich gelegentliche Ausnahmen, aber ich denke nicht, dass etwas gewonnen würde, wenn man versuchen würde, diese wenigen Grenzfälle in den Daten zu präzisieren.
 
-## Textquellen
+<h2 id="Textquellen">Textquellen</h2>
 
 ### Pali
 
@@ -105,7 +106,7 @@ Da die Texte auf Sanskrit und in anderen indischen Sprachen keinen zusammenhäng
 
 Übersetzungen stammen aus vielen verschiedenen Quellen, wie in jedem Text angegeben.
 
-## Markup
+<h2 id="Markup">Markup</h2>
 
 Die Texte auf SuttaCentral haben ein klares, akkurates und ausführliches Markup und benutzen gültiges semantisches Normen-kompatibles HTML5. Es war eine unserer größten Aufgaben, die vielen Texte, die wir aus verschiedenen Quellen geerbt haben, umzuwandeln und sie alle in das gleiche Format zu bringen. Das ist außerordentlich komplex, da die Quelltexte selten ein irgendwie geartetes klares semantisches Markup haben. Sie reichen von nicht markiertem gewöhnlichem Text bis zu wortreichem Durcheinander, wie es von Textverarbeitungsprogrammen produziert wird. Unser Ziel ist, diese ganze komplexe Mischung in ein klares und einfaches Markup zu bringen, ohne dass Elemente verlorengehen.
 
@@ -137,7 +138,7 @@ Wir benutzen semantisches Markup mit etwa hundert verschiedenen Klassen, um die 
 
 [Siehe Liste der Markup-Klassen für Strukturmerkmale und Sonstiges](https://suttacentral.net/zz3/zz/test) (englisch).
 
-## Bibliografie
+<h2 id="Bibliografie">Bibliografie</h2>
 
 ### Suttaparallelen
 Hier sind die wichtigsten bibliografischen Quellen, die von Rod Bucknell bereitgestellt wurden; sie stellen die primären Bezugsquellen für die Suttaparallelen und die Ausgaben der verschiedenen Texte dar. Man beachte, dass diese Bibliografie nicht als umfassend oder gleichbleibend gedacht ist. Sie zeigt vielmehr eine Momentaufnahme des akademischen Hintergrunds für Rods grundlegende Recherche.
@@ -345,7 +346,7 @@ SC ID: skt-mu-bu-pm-gbm3.
 [skt-mu-bu-pm-gbm2.pdf](https://discourse.suttacentral.net/uploads/default/original/2X/a/a36850452675e4fabea360d3ad601ba496920bce.pdf) (3.0 MB)  
 SC ID: skt-mu-bu-pm-gbm2.
 * Clarke, Shayne. *Vinaya Mātṛkā—Mother of the Monastic codes, or Just Another Set of Lists?*, Indo-Iranian Journal, 44: 77–120, 2004.
-* Finot, Louis. *Le Prātimokṣasūtra des Sarvāstivādins*, Journale Asiatique, Nov–Dec, 1913, 465–558. (Including fragment of *bhikṣuṇī prātimokṣa*.)
+* Finot, Louis. *Le Prātimokṣasūtra des Sarvāstivādins*, Journale Asiatique, Nov–Dec, 1913, 465–558. (Including fragment of *bhikṣuṇī prātimokṣa*.)  
 [skt-sv-bu-pm-finot.pdf](https://discourse.suttacentral.net/uploads/default/original/2X/0/0de2b67dae51dcec8e29eee49c6890037253de88.pdf) (3.4 MB)
 SC ID: skt-sv-bu-pm-finot.
 * Frauwallner, E. *The Earliest Vinaya and the Beginnings of Buddhist Literature*, Is. M.E.O. 1956.
@@ -381,6 +382,6 @@ SC ID: skt-sv-bu-pm-finot.
 [http://yifertwtw.blogspot.tw/](http://yifertwtw.blogspot.com/).
 * Bollée, Willem B. *Reverse Index of the Dhammapada, Suttanipāta, Thera- and Therīgāthā Pādas with Parallels from the Āyāraṅga, Sūyagaḍa, Uttarajjhāyā Dasaveyāliya and Isibhāsiyāiṁ*.. Verlag für Orientalistische Fachpublikationen,
 Reinbek 1983.
-* Falk, Harry. *A new Gāndhārī Dharmapada (Texts from the Split Collection 3)*. [Annual Report of the International Research Institute for Advanced Buddhology, at Soka University for the Academic Year 2014. Vol. XVIII (2015)](iriab.soka.ac.jp/content/pdf/aririab/Vol.%20XVIII%20(2015).pdf).
+* Falk, Harry. *A new Gāndhārī Dharmapada (Texts from the Split Collection 3)*. [Annual Report of the International Research Institute for Advanced Buddhology, at Soka University for the Academic Year 2014. Vol. XVIII (2015)](http://iriab.soka.ac.jp/content/pdf/aririab/Vol.%20XVIII%20(2015).pdf).
 * Braarvig, Jens & Liland, Fredrik. University of Oslo, Faculty of Humanities.  
 [Udānavarga](https://www2.hf.uio.no/polyglotta/index.php?page=volume&vid=71).
