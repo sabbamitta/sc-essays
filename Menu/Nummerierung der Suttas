@@ -1,4 +1,10 @@
+---
+prev: 'SuttaCentral Info'
+prev_href: '300-intro-sc'
+prev_aria: 'suttacentral Info'
+---
 # Nummerierung der Suttas
+<a href="https://suttacentral.net/numbering" target="_blank">Originaltext</a>
 
 Ein Stolperstein für alle, die buddhistische Texte studieren, ist es, wie man sich darin zurechtfinden soll. Wie kommt man zu dem Sutta, zu dem man will? Das Problem entsteht zum Teil dadurch, dass es einfach so viele Texte sind, und zum Teil, weil es von jedem Text verschiedene Ausgaben gibt. Auf SuttaCentral verschärft sich das Problem noch, da wir Texte aus vielen verschiedenen kanonischen Quellen einbeziehen, die nie zuvor in einer kombinierten Ausgabe vorgelegt wurden.
 
@@ -7,7 +13,7 @@ Wir versuchen, den einfachsten, logischsten und einheitlichsten Ansatz für unse
 Hier sind die allgemeinen Prinzipien, an denen wir uns orientieren:
 
 * Die weiter akzeptierten Nummerierungssysteme werden vorgezogen.
-* Semantische Nummerierung, die einer sinnvollen Strukturierung des Inhalts folgt (Kapitel/Abschnitt), wird vorgezogen vor Strukturen gedruckter Ausgaben (Band/Seite).
+* Semantische Nummerierung, die einer sinnvollen Strukturierung des Inhalts folgt (Kapitel/Abschnitt), wird vorgezogen vor Strukturen, die gedruckten Ausgaben folgen (Band/Seite).
 * Alte Nummerierungssysteme werden durch mehr Detailgenauigkeit aufgewertet, ohne sie inkompatibel zu machen.
 * Wo es sinnvoll ist, werden verschiedene Referenzsysteme bereitgestellt.
 * Das primäre Nummerierungssystem wird für die URLs verwendet, die einfach, stabil und sinnvoll sind.
@@ -42,7 +48,7 @@ Ein Verweis auf DN 1.10 würde diese ganze Passage bezeichnen, wie in älteren A
 
 ## Pali
 
-In den meisten Fällen ist die Nummerierung der Pali-Suttas einfach und über verschiedenen Ausgaben hinweg einheitlich. „DN 2“ ist immer die zweite Lehrrede des Dīgha Nikāya, d. h. das Sāmaññaphala-Sutta. Aber es gibt ein paar Grenzfälle, wo Unterschiede vorkommen. Das hängt oft damit zusammen, dass es in den kürzeren Suttas viele Abkürzungen und Wiederholungen gibt, so dass nicht immer klar ist, wie die Texte genau zu zählen sind.
+In den meisten Fällen ist die Nummerierung der Pali-Suttas einfach und über verschiedenen Ausgaben hinweg einheitlich. „DN 2“ ist immer die zweite Lehrrede des Dīgha Nikāya, d. h. das Sāmaññaphala-Sutta. Aber es gibt ein paar Grenzfälle, wo Unterschiede vorkommen. Das hängt oft damit zusammen, dass es in den kürzeren Suttas viele Abkürzungen und Wiederholungen gibt, so dass nicht immer klar ist, wie die Texte genau zu zählen sind.
 
 Im Allgemeinen folgen wir der Nummerierung, wie sie in unserer Paliausgabe zu finden ist, dem Mahāsaṅgīti-Text des Sechsten Konzils, der von der *Dhamma Society* angefertigt wurde. Das ist eine revidierte und korrigierte Version der digitalen Ausgabe des Sechsten Konzils, die vom *Vipassana Research Institute* angefertigt wurde, und folgt dem gleichen Nummerierungssystem. In den meisten Fällen stimmt es mit der Nummerierung überein, die in den Ausgaben der *Pali Text Society* (PTS) benutzt wird. Allerdings kann in den weniger gebräuchlichen Texten wie dem Abhidhamma die Nummerierung von der der PTS abweichen. Zusätzlich sind im Bereich der Hauptnikāyas die folgenden Punkte zu beachten:
 
