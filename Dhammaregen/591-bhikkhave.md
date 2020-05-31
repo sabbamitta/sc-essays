@@ -36,33 +36,33 @@ So erscheint der Ausdruck in der Mehrzahl der Texte des Pālikanon, allerdings n
 
 Wenn wir diese Häufigkeiten mit einigen *Sutta*parallelen aus anderen Traditionen vergleichen, springen manche Unterschiede zwischen den Zahlen ins Auge. In der Parallele zum *Sakka-Saṃyutta* aus dem kürzeren *Saṃyukta-Āgama* in Marcus Bingenheimers Übersetzung erscheint der Ausdruck nur achtmal, verglichen mit 105 Mal in der PTS-Ausgabe. In der (ersten Hälfte  der) Parallele zum *Ariyapariyesanā-Sutta* im chinesischen *Madhyama-Āgama*, übersetzt von Anālayo („Brahmā’s“), erscheint der Ausdruck nur zweimal, verglichen mit 121 Mal in der vollständigen PTS-Ausgabe.
 
-However, the differences are not always so great. In the *Māra-saṃyukta* from the shorter *Saṃyukta-āgama*, the term does not appear at all, and in the Pāli only seventeen times, as many of the sections are just the Buddha and Māra in dialogue. Similarly, in other *suttas* in which the Buddha dialogues with just one or two people, or groups who are not his followers, there are no occurrences of the term in either the Pāli or Chinese.<sup class="footnote-ref"><a id="fnref6" href="#fn6">[6]</a></sup>
+Doch die Unterschiede sind nicht immer so groß. Im *Māra-Saṃyukta* aus dem kürzeren *Saṃyukta-Āgama* kommt der Ausdruck überhaupt nicht vor, und in der Pāliversion nur siebzehn Mal, da viele Abschnitte nur den Buddha und Māra im Gespräch zeigen. In anderen *Suttas*, in denen der Buddha sich mit nur einer oder zwei Personen unterhält oder mit einer Gruppe von Menschen, die nicht seine Anhänger sind, tritt der Begriff ähnlich wie hier weder in der Pāli- noch in der chinesischen Fassung auf.<sup class="footnote-ref"><a id="fnref6" href="#fn6">[6]</a></sup>
 
-In Gāndhārī parallels of fragments of some *suttas* the vocative address is sometimes missing, even if the parallel is otherwise exact. This is most evident in Glass’s study of four *Saṃyukta-āgama sūtras*. There are seven instances for comparison. Of these, on four occasions the Pāli has the vocative address, whilst the Gāndhārī does not. On two occasions both have the vocative address, and on the other occasion, the Pāli has *bhikkhave* three times whilst in the Gāndhārī the equivalent—*bhikṣave*—occurs only once. The last instance is as follows:
-> Pāli—*yam **bhikkhave** na tumhākaṃ tam pajahatha. Taṃ vo pahīnaṃ hitāya sukhāya bhavissati. Kiñca **bhikkave** na tumhākam. Rūpam **bhikkave** na tumhākaṃ tam pajahatha.*
+In den fragmentarischen Gāndhārī-Parallelen zu einigen *Suttas* fehlt manchmal die Vokativanrede, selbst wenn es ansonsten eine exakte Parallele ist. Das ist besonders offensichtlich in Glass' Studie über vier *Sūtras* des *Saṃyukta-Āgama*. Es gibt sieben Stellen, die man zum Vergleich heranziehen kann. Von diesen hat die Pālifassung in vier Fällen die Vokativanrede, während die Gāndārīversion sie nicht hat. In zwei Fällen haben beide die Vokativanrede, und in einem anderen Fall hat der Pālitext *bhikkhave* dreimal, während in der Gāndārīfassung die Entsprechung – *bhikṣave* – nur einmal vorkommt. Das letzte Beispiel ist wie folgt:
+> Pāli – *yam **bhikkhave** na tumhākaṃ tam pajahatha. Taṃ vo pahīnaṃ hitāya sukhāya bhavissati. Kiñca **bhikkave** na tumhākam. Rūpam **bhikkave** na tumhākaṃ tam pajahatha.*
 > 
-> Gāndhārī (Reconstructed)—*ya **bhikṣave** ṇa tuspahu ta praca{ja}asa ta prahiṇa hiḏae suhae bhavi(*śaḏi kica ṇa) (*tuspahu)u ruo ṇa tuspahu ta pajaasa …* (Glass 178)
+> Gāndhārī (rekonstruiert) – *ya **bhikṣave** ṇa tuspahu ta praca{ja}asa ta prahiṇa hiḏae suhae bhavi(*śaḏi kica ṇa) (*tuspahu)u ruo ṇa tuspahu ta pajaasa …* (Glass 178)
 
-The other four examples with the missing vocative are as follows:
-> Pāli—*seyyathāpi **bhikkhave** yam imasmiṃ jetavane tiṇakaṭṭhasākhāpalāsam taṃ jano hareyya vā ḍaheyya vā yathāpaccayaṃ vā kareyya.*
+Die anderen vier Beispiele mit fehlendem Vokativ sind wie folgt:
+> Pāli – *seyyathāpi **bhikkhave** yam imasmiṃ jetavane tiṇakaṭṭhasākhāpalāsam taṃ jano hareyya vā ḍaheyya vā yathāpaccayaṃ vā kareyya.*
 >
-> Gāndhārī (Reconstructed) - *sayasavi yo himaspi jeḏavaṇe triṇa-kaṭha-śaha-patra-palaśa ta jaṇe chidea va harea v(*a dahea ve yasapa)c(*e)a karea …* (Glass 180)
+> Gāndhārī (rekonstruiert) – *sayasavi yo himaspi jeḏavaṇe triṇa-kaṭha-śaha-patra-palaśa ta jaṇe chidea va harea v(*a dahea ve yasapa)c(*e)a karea …* (Glass 180)
 >
-> Pāli—*evam eva kho bhikkave rūpaṃ na tumhākam.*
+> Pāli – *evam eva kho bhikkave rūpaṃ na tumhākam.*
 >
-> Gāndhārī (Reconstructed)—*evam eva ya ṇa tuspahu …* (Glass 183)
+> Gāndhārī (rekonstruiert) – *evam eva ya ṇa tuspahu …* (Glass 183)
 >
-> Pāli—*bhāvanānuyogaṃ ananuyuttassa bhikkhave bhikkhuno viharato …*
+> Pāli – *bhāvanānuyogaṃ ananuyuttassa bhikkhave bhikkhuno viharato …*
 >
-> Gāndhārī (Reconstructed)—*bhavaṇaṇuyoḵa aṇaṇuyutasa bhikhusa viharaḏe …* (Glass 205)
+> Gāndhārī (rekonstruiert) – *bhavaṇaṇuyoḵa aṇaṇuyutasa bhikhusa viharaḏe …* (Glass 205)
 >
-> Pāli—*seyyathāpi bhikkhave kukkuṭiyā aṇḍāni aṭṭha vā dasa vā dvádasa vā …*
+> Pāli – *seyyathāpi bhikkhave kukkuṭiyā aṇḍāni aṭṭha vā dasa vā dvádasa vā …*
 >
-> Gāndhārī (Reconstructed)—*saysavi kukuḍ(*ia aḍagaṇi a)ṭh(*a) va daśa va baḏaśa va …* (Glass 207)
+> Gāndhārī (rekonstruiert) – *saysavi kukuḍ(*ia aḍagaṇi a)ṭh(*a) va daśa va baḏaśa va …* (Glass 207)
 
-All these examples are from the *Saṃyukta-āgama*, as many of the other Gāndhārī fragments are from texts that do not contain the vocative address—such as the *Dhammapada*, or of texts with no direct Pāli equivalent. Mark Allon’s survey of the three *Ekottarika-āgama*-type *sūtras* does not afford good comparison, as unfortunately most often the vocatives, if they had been there, would have come at the left hand side of the line, which is missing in the fragments. Allon has reconstructed the lines with the vocative address as it is in parallel Pāli passages, but it is unclear from the manuscript fragments as to whether it was there on the complete manuscript or not.
+All diese Beispiele sind aus dem *Saṃyukta-Āgama*, da viele der anderen Gāndhārīfragmente von Texten sind, die keine Vokativanrede enthalten – wie etwa der *Dhammapada* –, oder von Texten ohne eine direkte Pālientsprechung. Mark Allons Übersicht über die drei *Sūtras* vom *Ekottarika-Āgama*-Typ bietet keine gute Vergleichsmöglichkeit, da unglücklicherweise die meisten Vokative, wenn sie da waren, am linken Zeilenende gestanden hätten, das in den Fragmenten fehlt. Allon hat die Zeilen mit den Vokativanreden rekonstruiert, wie sie in parallelen Pālipassagen sind, aber aus den Manuskriptfragmenten wird nicht klar, ob sie im vollständigen Manuskript vorhanden waren oder nicht.
 
-## 2. Mahāsāṅghika-Lokottaravāda *Bhikṣuṇī Vinaya*
+## 2. Mahāsāṅghika-Lokottaravāda *Bhikṣuṇī-Vinaya*
 In the Pāli *Vinaya* the vocative address appears often, even in the nuns’ section—and in discussing this we touch on observations made previously by Anālayo (“Theories”) and von Hinüber (“Foundation”). In the nuns’ section, when an event happens the nuns tell the monks, who tell the Buddha and then the Buddha makes a ruling for the nuns, but uses the vocative *bhikkhave*. If we understand the use of the term here in its most literal sense, then the Buddha seems to be instructing the monks about rules for nuns.
 
 In sharp contrast to the vocative address featuring extensively in the nuns’ section of the Pāli *Vinaya*, it is absent from the Mahāsāṅghika-Lokottaravāda *Bhikṣuṇī Vinaya*. The Mahāsāṅghika-Lokottaravāda *Bhikṣuṇī Vinaya* begins with the Buddha instructing Mahāprajāpatī Gautamī to gather together the community of nuns and once she has done so he will give the teaching of the rules. Also, in relation to the individual rules, after events have happened and Mahāprajāpatī Gautamī has explained the situation to the Buddha, the Buddha instructs her to gather together the nuns (even those who may have heard the ruling before) so that he can pronounce the ruling. In this case, then, as stipulated, the audience for both the entire exposition and individual rules is entirely female and monastic.
