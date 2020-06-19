@@ -23,7 +23,7 @@ Seit dem 19. Jahrhundert haben Wissenschaftler erkannt, dass viele buddhistische
 
 2014 erstellte Bhikkhu Sujato einen Parallelensatz für den Vinaya, der zu SuttaCentral hinzugefügt wurde, und 2016 fügte Ayya Vimala Versparallelen zu den Dhammapadas hinzu.
 
-Die Daten zu den Parallelen werden in einer einzigen Datei verwaltet, <a href="https://github.com/suttacentral/sc-data/blob/master/relationship/parallels.json" target="_blank">parallels.json</a>, die sich im <a href="https://github.com/suttacentral" target="_blank">GitHub-Repo von SuttaCentral</a> befindet.
+Die Daten zu den Parallelen werden in einer einzigen Datei verwaltet, <a href="https://github.com/suttacentral/sc-data/blob/master/relationship/parallels.json" target="_blank">parallels.json</a>, die sich im <a href="https://github.com/suttacentral" target="_blank">GitHub-Depot von SuttaCentral</a> befindet.
 
 Neben den Parallelen beherbergt SuttaCentral Originaltexte und Übersetzungen, sofern verfügbar. Eine kurze Notiz zu den Quellen dieser Texte findet sich weiter unten.
 
@@ -85,7 +85,7 @@ Man beachte, dass es aufgrund der Natur der Vinayatexte keine Notwendigkeit für
 
 ### Pali
 
-Der Palitext auf SuttaCentral ist die Mahāsaṅgīti-Ausgabe, manchmal als „Welt-Tipitaka“ bezeichnet. Es ist eine Version des Textes des Sechsten Konzils, die von der *Dhamma Society of Bangkok* bearbeitet und herausgegeben wurde. Sie basiert auf dem digitalen Text, den das *Vipassana Research Institute* zur Verfügung gestellt hat. Die *Dhamma Society* hat den Text umfassend revidiert und im Vergleich mit mehreren gedruckten Ausgaben korrigiert. Als Hauptquelle zogen sie die erste Ausgabe des Textes des Sechsten Konzils heran, die die Tradition burmesischer Manuskripte vertritt. Wir glauben, dass das die genaueste, einheitlichste und am besten bearbeitete digitale Ausgabe des Palikanon ist, die verfügbar ist.
+Der Palitext auf SuttaCentral ist die Mahāsaṅgīti-Ausgabe, manchmal als „Welt-Tipiṭaka“ bezeichnet. Es ist eine Version des Textes des Sechsten Konzils, die von der *Dhamma Society of Bangkok* bearbeitet und herausgegeben wurde. Sie basiert auf dem digitalen Text, den das *Vipassana Research Institute* zur Verfügung gestellt hat. Die *Dhamma Society* hat den Text umfassend revidiert und im Vergleich mit mehreren gedruckten Ausgaben korrigiert. Als Hauptquelle zogen sie die erste Ausgabe des Textes des Sechsten Konzils heran, die die Tradition burmesischer Manuskripte vertritt. Wir glauben, dass das die genaueste, einheitlichste und am besten bearbeitete digitale Ausgabe des Palikanon ist, die verfügbar ist.
 
 Die erste Version von SuttaCentral hatte Links zur Webseite der *Dhamma Society*. Diese wurde jedoch vom Netz abgeschaltet, und wir beschlossen, den Text selbst auf unsere Webseite aufzunehmen. Zum Glück hatte der Ehrwürdige Yuttadhammo eine vollständige Kopie des Mahāsaṅgīti für seinen *Digital Pali Reader* gemacht, und er stellte uns freundlicherweise die Quelltexte zur Verfügung.
 

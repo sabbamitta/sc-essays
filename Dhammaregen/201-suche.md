@@ -66,20 +66,20 @@ Sie können Ihre Suche mit erweiterten Einstellungen anpassen. Erweiterten Einst
 * **-sl ISO_LANG_2**  Legt die Sprache für die Suche fest, z. B.: <kbd>-sl de</kbd> durchsucht deutsche Texte.
 * **-d NUMBER**  Legt die maximale Zahl der Ergebnisse fest, z. B.: <kbd>-d 50</kbd> findet bis zu 50 Suttas.
 * <kbd>-ml 3</kbd>  Zeigt nur Ergebnisse, die in drei Sprachen vorliegen.
-* <kbd>-tc:mn</kbd> Beschränkt Suchergebnisse auf den Majjhima Nikaya.
+* <kbd>-tc:mn</kbd> Beschränkt Suchergebnisse auf den Majjhima-Nikāya.
 
 | Parameter | Zu durchsuchende Texte |
 | :-----: | :-----: |
 | -tc:ab | Abhidhamma |
-| -tc:an | Aṅguttara Nikāya |
+| -tc:an | Aṅguttara-Nikāya |
 | -tc:as | Adhikaraṇasamatha |
 | -tc:ay | Aniyata |
 | -tc:bi | Bhikkhuni |
 | -tc:bu | Bhikkhu |
-| -tc:dn | Dīgha Nikāya |
+| -tc:dn | Dīgha-Nikāya |
 | -tc:kd | Khandhaka |
-| -tc:kn | Khuddaka Nikāya |
-| -tc:mn | Majjhima Nikāya |
+| -tc:kn | Khuddaka-Nikāya |
+| -tc:mn | Majjhima-Nikāya |
 | -tc:ms | Mahasaṅgīti Tipiṭaka |
 | -tc:np | Nissaggiya Pācittiya |
 | -tc:pc | Pācittiya |
@@ -88,7 +88,7 @@ Sie können Ihre Suche mit erweiterten Einstellungen anpassen. Erweiterten Einst
 | -tc:pvr | Parivāra | 
 | -tc:prv | Parivāra | 
 | -tc:sk | Sekhiya |
-| -tc:sn | Saṃyutta Nikāya |
+| -tc:sn | Saṃyutta-Nikāya |
 | -tc:ss | Saṅghādisesa |
 | -tc:su | Sutta |
 | -tc:thag | Theragāthā |

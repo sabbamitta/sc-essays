@@ -1,24 +1,24 @@
-# Tipitaka‐Kategorien
-Die Voice-Suche kann Ergebnisse nach *Tipitaka-Kategorien* filtern. Wenn Sie anhand der Tipitaka-Kategorien suchen wollen, benutzen sie die Option `-tc` im Suchbegriff. Zum Beispiel um im Majjhima Nikaya und Saṁyutta Nikaya zu suchen:
+# Tipiṭaka‐Kategorien
+Die Voice-Suche kann Ergebnisse nach *Tipiṭaka-Kategorien* filtern. Wenn Sie anhand der Tipiṭaka-Kategorien suchen wollen, benutzen sie die Option `-tc` im Suchbegriff. Zum Beispiel um im Majjhima-Nikāya und Saṁyutta-Nikāya zu suchen:
 
 ```
 -tc:mn,sn krank
 ```
 
 
-| Abkürzung | Tipitaka-Kategorie |
+| Abkürzung | Tipiṭaka-Kategorie |
 | :-----: | :-----: |
 | ab | Abhidhamma |
-| an | Aṅguttara Nikāya |
+| an | Aṅguttara-Nikāya |
 | as | Adhikaraṇasamatha |
 | ay | Aniyata |
 | bi | Bhikkhuni |
 | bu | Bhikkhu |
-| dn | Dīgha Nikāya |
+| dn | Dīgha-Nikāya |
 | kd | Khandhaka |
-| kn | Khuddaka Nikāya |
-| mn | Majjhima Nikāya |
-| ms | Mahasaṅgīti Tipiṭaka |
+| kn | Khuddaka-Nikāya |
+| mn | Majjhima-Nikāya |
+| ms | Mahasaṅgīti-Tipiṭaka |
 | np | Nissaggiya Pācittiya |
 | pc | Pācittiya |
 | pd | Pātidesanīya |
@@ -26,7 +26,7 @@ Die Voice-Suche kann Ergebnisse nach *Tipitaka-Kategorien* filtern. Wenn Sie anh
 | pvr | Parivāra | 
 | prv | Parivāra | 
 | sk | Sekhiya |
-| sn | Saṃyutta Nikāya |
+| sn | Saṃyutta-Nikāya |
 | ss | Saṅghādisesa |
 | su | Sutta |
 | thag | Theragāthā |
